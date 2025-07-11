@@ -2,6 +2,8 @@
 
 Bookstore is a Jetpack Compose Android app for managing and browsing a personal bookstore.
 
+![](https://github.com/dionbalerr/BookStore/blob/master/SSBookstore.gif)
+
 ## 🚀 Features
 
 - 📘 **Book List**  
