@@ -27,3 +27,19 @@ Bookstore is a Jetpack Compose Android app for managing and browsing a personal 
 - **Navigation**: Using NavGraphBuilder, NavHost, NavController to navigate and pass data between screens
 - **Logging & Debugging**: Learned importance of identifying crashes, tracking unexpected behavior, diagnosing state issues through Logcat
 - Understood differences between **Dependencies**: External libraries; **Plugins**: Gradle features/extensions; **libs.versions.toml**: Central config file
+
+## 📈 Future Improvements & Features
+- **Authentication**  
+  Implement proper user login authentication, password hashing/salting through MessageDigest/BCrypt
+
+- **Filtering**  
+  Allow sorting books by title, author, or date added; add search or category filter
+
+- **Storage**  
+  Replace manual JSON with Room+ViewModel+Repository for scalability
+
+- **Testing**  
+  Write test cases to ensure each component works as intended
+
+- **UI Polishing**  
+  Add loading indicators, better design as whole
